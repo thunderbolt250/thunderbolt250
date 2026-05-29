@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @thunderbolt250
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning information security
-- 💞️ I’m looking to collaborate on mobile money fraud detection 
-- 📫 How to reach me mwesigyeemmy20@gmail.com
+# Hi there! 👋 I'm Emmy Mwesigye (@thunderbolt250)
 
-<!---
-thunderbolt250/thunderbolt250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software & Systems-focused Graduate Student | AI & Cybersecurity**
+
+I am an IT graduate student passionate about building scalable applications, cloud-native systems, and data-driven solutions. I enjoy analyzing system data, designing reliable services, and leveraging AI-driven approaches to extract insights and harden security. 
+
+### 🔭 What I'm currently up to:
+* 🎓 Pursuing a Master's degree at **Carnegie Mellon University Africa**, focusing on Software Engineering, AI, and Cybersecurity.
+* 💻 Developing machine learning pipelines for anomaly and intrusion detection systems. 
+* ☁️ Working with cloud-native infrastructure, deploying containerized microservices, and setting up AIOps observability pipelines.
+* 🚀 Always looking to collaborate on: **MLOps**, **automation**, and developing robust **data pipelines** for real-world applications.
+
+### 🛠️ Tech Stack & Tools:
+* **Languages:** Python, C/C++, Java, JavaScript
+* **AI/ML Tools & Concepts:** OpenClaw (Agentic AI), LiteLLM, Predictive Modeling (Naive Bayes, Logistic Regression), Custom Neural Networks
+* **Backend & Web:** Node.js, Express.js, React.js, REST APIs
+* **Cloud & DevOps:** Kubernetes, Docker, OpenStack, CI/CD, Linux
+* **Data & Observability:** Prometheus, Grafana, Loki, PostgreSQL, MySQL, Hadoop
+* **Security:** Network Traffic Analysis (Wireshark/Snort), Malware Analysis, Enterprise Network Design
+
+### 📫 Let's Connect:
+* 📧 Email: [memmy@andrew.cmu.edu](mailto:memmy@andrew.cmu.edu) | [mwesigyeemmy20@gmail.com](mailto:mwesigyeemmy20@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/mwesigye-emmy-a839b3199/
+* 🌐 Portfolio: https://thunderbolt250.github.io/
+
+---
+⭐️ *Always learning, always building.*
