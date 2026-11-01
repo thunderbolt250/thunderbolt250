@@ -8,11 +8,18 @@ I am an IT graduate student passionate about building scalable applications, clo
 * 🎓 Pursuing a Master's degree at **Carnegie Mellon University Africa**, focusing on Software Engineering, AI, and Cybersecurity.
 * 💻 Developing machine learning pipelines for anomaly and intrusion detection systems. 
 * ☁️ Working with cloud-native infrastructure, deploying containerized microservices, and setting up AIOps observability pipelines.
+* 📱 Building native Android apps with Kotlin and Jetpack Compose to solve everyday problems.
 * 🚀 Always looking to collaborate on: **MLOps**, **automation**, and developing robust **data pipelines** for real-world applications.
 
+### 📱 Personal Projects:
+* **[CMU-Africa Deadline Tracker](https://github.com/thunderbolt250/DeadlineTracker)**: Android app for tracking assignments and deadlines, with a dashboard and deadline reminders. *(Kotlin, SQLite, WebView)*
+* **[Noteboard](https://github.com/thunderbolt250/Noteboard)**: Ad-free, offline sticky-notes app with checklists, tags, reminders, photos and voice input. *(Kotlin, Jetpack Compose, Room)*
+* **MoMo Spending Tracker** *(private)*: Records MTN Mobile Money payments from SMS automatically, with a Windows companion app and Google Sheets sync. *(Kotlin, Compose, Python, Apps Script)*
+
 ### 🛠️ Tech Stack & Tools:
-* **Languages:** Python, C/C++, Java, JavaScript
+* **Languages:** Python, Kotlin, C/C++, Java, JavaScript
 * **AI/ML Tools & Concepts:** OpenClaw (Agentic AI), LiteLLM, Predictive Modeling (Naive Bayes, Logistic Regression), Custom Neural Networks
+* **Mobile:** Android, Jetpack Compose, Room/SQLite, Material 3
 * **Backend & Web:** Node.js, Express.js, React.js, REST APIs
 * **Cloud & DevOps:** Kubernetes, Docker, OpenStack, CI/CD, Linux
 * **Data & Observability:** Prometheus, Grafana, Loki, PostgreSQL, MySQL, Hadoop
