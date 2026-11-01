@@ -28,7 +28,7 @@ I am an IT graduate student passionate about building scalable applications, clo
 ### 📫 Let's Connect:
 * 📧 Email: [memmy@andrew.cmu.edu](mailto:memmy@andrew.cmu.edu) | [mwesigyeemmy20@gmail.com](mailto:mwesigyeemmy20@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/mwesigye-emmy-a839b3199/
-* 🌐 Portfolio: https://thunderbolt250.github.io/
+* 🌐 Portfolio: https://thunderbolt250.github.io/ (mirror: https://thunderbolt250.netlify.app/)
 
 ---
 ⭐️ *Always learning, always building.*
